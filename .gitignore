@@ -1,0 +1,13 @@
+bin/
+develop-eggs/
+eggs/
+include/
+lib/
+parts/
+pyvenv.cfg
+src/
+var/
+
+*.py[co]
+.installed.cfg
+.mr.developer.cfg
